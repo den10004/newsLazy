@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.wrapper {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 10px;
+  overflow-x: hidden;
+  flex-wrap: nowrap;
+  padding: 20px;
+}
+
+button {
+  margin: 0;
+  width: 100px;
+}
