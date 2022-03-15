@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/newsLazy/static/css/main.fa276eca.chunk.css",
-    "main.js": "/newsLazy/static/js/main.1ef76d89.chunk.js",
-    "main.js.map": "/newsLazy/static/js/main.1ef76d89.chunk.js.map",
+    "main.css": "/newsLazy/static/css/main.286ac20b.chunk.css",
+    "main.js": "/newsLazy/static/js/main.3dc19e3d.chunk.js",
+    "main.js.map": "/newsLazy/static/js/main.3dc19e3d.chunk.js.map",
     "runtime-main.js": "/newsLazy/static/js/runtime-main.6205b273.js",
     "runtime-main.js.map": "/newsLazy/static/js/runtime-main.6205b273.js.map",
     "static/js/2.69872687.chunk.js": "/newsLazy/static/js/2.69872687.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.5482fb9f.chunk.js": "/newsLazy/static/js/3.5482fb9f.chunk.js",
     "static/js/3.5482fb9f.chunk.js.map": "/newsLazy/static/js/3.5482fb9f.chunk.js.map",
     "index.html": "/newsLazy/index.html",
-    "static/css/main.fa276eca.chunk.css.map": "/newsLazy/static/css/main.fa276eca.chunk.css.map",
+    "static/css/main.286ac20b.chunk.css.map": "/newsLazy/static/css/main.286ac20b.chunk.css.map",
     "static/js/2.69872687.chunk.js.LICENSE.txt": "/newsLazy/static/js/2.69872687.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6205b273.js",
     "static/js/2.69872687.chunk.js",
-    "static/css/main.fa276eca.chunk.css",
-    "static/js/main.1ef76d89.chunk.js"
+    "static/css/main.286ac20b.chunk.css",
+    "static/js/main.3dc19e3d.chunk.js"
   ]
 }
